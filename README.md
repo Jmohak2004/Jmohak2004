@@ -11,7 +11,7 @@
   - 🔹 **Solana** and **Rust** for smart contracts.
   - 🔹 **React.js**, **Express.js**, and **MongoDB** for full-stack development.
   - 🔹 **AI systems** using Python and LLMs.
-- 🎯 Goal: Reach **1350+** Codeforces rating through daily problem-solving and contests.
+- 🎯 Goal: Reach **1450+** Codeforces rating through daily problem-solving and contests.
 - 🗂️ I enjoy combining creativity with technical skills to solve real-world challenges.
 
 ---
@@ -27,11 +27,11 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jmohak2004&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jmohak2004&theme=tokyonight" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmohak2004&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 > 🔁 *Replace `your-username` with your actual GitHub handle above.*
