@@ -54,26 +54,18 @@ I build **full-stack web applications** and explore **blockchain technology** an
 
 Browse my [repositories](https://github.com/Jmohak2004?tab=repositories) to see what I'm building and learning.
 
-<details>
-  <summary><strong>📊 View GitHub Stats, Contributions & Streaks</strong></summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jmohak2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmohak2004&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most-used programming languages" />
+</p>
 
-  <br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jmohak2004&theme=tokyonight&hide_border=true" width="80%" alt="Current GitHub streak and longest streak" />
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jmohak2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics and contribution summary" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmohak2004&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most-used languages in public repositories" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jmohak2004&theme=tokyonight&hide_border=true" width="80%" alt="GitHub current contribution streak, longest streak, and total contributions" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-contributions-api.jogruber.de/v4/Jmohak2004?y=last" width="95%" alt="GitHub contribution activity over the last year" />
-  </p>
-
-</details>
-
+<p align="center">
+  <img src="https://github-contributions-api.jogruber.de/v4/Jmohak2004?y=last" width="95%" alt="GitHub contributions over the last year" />
+</p>
 ---
 
 <p align="center">
